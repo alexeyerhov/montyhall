@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Senpie\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Senpie\\.nuget\\packages"
+    ]
+  }
+}
